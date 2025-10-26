@@ -14,7 +14,7 @@
 
 
 4. Theme gelap aplikasi
-![image alt](https://github.com/Adchrisa/Pemograman-Mobile-2_Widget-Theme/blob/33ed90e418d37521fb332769bab4707f9be4c142/ss3%20(tentang).PNG)
+![image alt](https://github.com/Adchrisa/Pemograman-Mobile-2_Widget-Theme/blob/c90144d5e98b01482206fffdb0e42b86d239b47e/ss4%20(theme).PNG)
 
 
 5. Theme sesuai sistem
