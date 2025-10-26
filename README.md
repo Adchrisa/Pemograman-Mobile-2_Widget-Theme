@@ -1,5 +1,26 @@
 # profile_card_app
 
+# Screenshot
+1. Tampilan halaman aplikasi
+![image alt](https://github.com/Adchrisa/Pemograman-Mobile-2_Widget-Theme/blob/33ed90e418d37521fb332769bab4707f9be4c142/ss1.PNG)
+
+
+2. Data berhasil diperbarui
+![image alt](https://github.com/Adchrisa/Pemograman-Mobile-2_Widget-Theme/blob/33ed90e418d37521fb332769bab4707f9be4c142/ss2%20(data%20diperbarui).PNG)
+
+
+3. Tentang aplikasi
+![image alt](https://github.com/Adchrisa/Pemograman-Mobile-2_Widget-Theme/blob/33ed90e418d37521fb332769bab4707f9be4c142/ss3%20(tentang).PNG)
+
+
+4. Theme gelap aplikasi
+![image alt](https://github.com/Adchrisa/Pemograman-Mobile-2_Widget-Theme/blob/33ed90e418d37521fb332769bab4707f9be4c142/ss3%20(tentang).PNG)
+
+
+5. Theme sesuai sistem
+![image alt](https://github.com/Adchrisa/Pemograman-Mobile-2_Widget-Theme/blob/33ed90e418d37521fb332769bab4707f9be4c142/ss5%20(theme%20sistem).PNG)
+
+
 A new Flutter project.
 
 ## Getting Started
